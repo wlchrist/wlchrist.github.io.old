@@ -57,7 +57,7 @@ paginate_path: "blog/:num/"
 
 
 # Comments
-disqus_shortname: alperenbozkurt-net
+disqus_shortname: wlchrist
 
 
 # Gems
