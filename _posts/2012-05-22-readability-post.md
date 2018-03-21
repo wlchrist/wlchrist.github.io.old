@@ -7,7 +7,7 @@ tags: [sample post, readability, test]
 ---
 **Mips Nedir ?**
 ===
-MIPS **İndirgenmiş Komut Kümesi** türü bir mikroişlemci mimarisidir. MIPS Teknolojileri adlı firma tarafından üretilmiştir. Her komut aynı boydadır. Bu da komutların bilgisayar donanımı tarafından kolay çözülmesini sağlar.
+MIPS **İndirgenmiş Komut Kümes i** türü bir mikroişlemci mimarisidir. MIPS Teknolojileri adlı firma tarafından üretilmiştir. Her komut aynı boydadır. Bu da komutların bilgisayar donanımı tarafından kolay çözülmesini sağlar.
 **RISC** yapısından dolayı tasarımı basittir. Çoğu modern mikroişlemci mimarisi (IBM/Motorola PowerPC, DEC, ARM) Mips mimarisinden esinlenilerek yapılmıştır.
 Günümüz itibarıyla **Nintendo 64**, **Sony PlayStation**, **Sony PlayStation 2** ve **Sony PSP** MIPS mimarisi ile çalışan işlemcilere sahiptirler.
 
