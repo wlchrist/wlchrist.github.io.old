@@ -1,7 +1,7 @@
 
 
 
-<center><b>JBlog</b>This is About me</center>
+<center><b>This is About me</b></center>
 
 ## About
 
